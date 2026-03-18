@@ -12,6 +12,13 @@
 
 ---
 
+## Skills
+
+- **Languages:** Java, Python, C (learning)
+- **Database:** MySQL
+
+---
+
 ## What I'm working on
 - ✅ Coursework + practice projects
 - 🧪 Small experiments to try new languages/tools
