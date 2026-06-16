@@ -18,7 +18,7 @@ Currently exploring different areas of software + computing to find what I enjoy
 
 ---
 
-## Tech I'm learning / using
+## Skills I'm learning / using
 - **Languages:** Java, Python, C, MySQL, SQLite, H2, HTML, CSS
 - **Frameworks:** JUnit, PyTest, Dash, Spring Boot, JPA/Hibernate
 - **Developer Tools:** Git, GitHub, Jupyter Notebook, Eclipse IDE, IntelliJ IDEA, PyCharm, Maven, Postman
