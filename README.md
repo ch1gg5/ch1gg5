@@ -33,15 +33,12 @@ Currently exploring different areas of software + computing to find what I enjoy
 
 ---
 
-## GitHub Stats (optional)
-
-These cards use the stats-organization/github-stats-extended public deployment at github-stats-extended.vercel.app (third-party service). Example cards for this profile:
+## GitHub Stats 
 
 ![GitHub stats](https://github-stats-extended.vercel.app/api?username=ch1gg5&show_icons=true&theme=shadow_red)
 
 ![Top languages](https://github-stats-extended.vercel.app/api/top-langs/?username=ch1gg5&layout=compact&theme=shadow_red)
 
-If those images fail to load, the service may be paused or rate-limited; consider using Shields.io badges as a fallback.
 
 ---
 
