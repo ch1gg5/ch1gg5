@@ -34,7 +34,10 @@ Currently exploring different areas of software + computing to find what I enjoy
 ---
 
 ## GitHub Stats (optional)
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=ch1gg5&show_icons=true)
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=ch1gg5&show_icons=true&theme=radical)
+
+![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ch1gg5&layout=compact&theme=radical)
 
 ---
 
