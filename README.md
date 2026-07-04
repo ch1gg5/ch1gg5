@@ -35,23 +35,13 @@ Currently exploring different areas of software + computing to find what I enjoy
 
 ## GitHub Stats (optional)
 
-This README now references stats-organization/github-stats-extended (a maintained fork/extension of the original readme-stats project). To use it you need a deployed instance (Vercel/Render/etc.).
+These cards use the stats-organization/github-stats-extended public deployment at github-stats-extended.vercel.app (third-party service). Example cards for this profile:
 
-Repository: https://github.com/stats-organization/github-stats-extended
+![GitHub stats](https://github-stats-extended.vercel.app/api?username=ch1gg5&show_icons=true&theme=radical)
 
-Usage example (replace <BASE_URL> with the public deployment URL of the service):
+![Top languages](https://github-stats-extended.vercel.app/api/top-langs/?username=ch1gg5&layout=compact&theme=radical)
 
-![GitHub stats](https://<BASE_URL>/api?username=ch1gg5&show_icons=true&theme=radical)
-
-![Top languages](https://<BASE_URL>/api/top-langs/?username=ch1gg5&layout=compact&theme=radical)
-
-If you don't want to deploy a private instance, use these Shields.io fallback badges which are reliable:
-
-![Followers](https://img.shields.io/github/followers/ch1gg5?label=Followers)
-
-![Repositories](https://img.shields.io/github/repo-count/ch1gg5?label=Repositories)
-
-![Top language (Coursework_Deadline_Optimiser)](https://img.shields.io/github/languages/top/ch1gg5/Coursework_Deadline_Optimiser?label=Top%20Language)
+If those images fail to load, the service may be paused or rate-limited; consider using Shields.io badges as a fallback.
 
 ---
 
