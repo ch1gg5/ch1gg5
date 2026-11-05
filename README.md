@@ -26,13 +26,6 @@ Currently exploring different areas of software + computing to find what I enjoy
 
 ---
 
-## Projects
-
-- **Coursework Deadline Optimiser** — Built a full-stack Spring Boot REST API that manages student coursework and generates optimized study schedules  
-  Repo: [link here](https://github.com/ch1gg5/Coursework_Deadline_Optimiser/tree/with-front-end)
-
----
-
 ## GitHub Stats 
 
 ![GitHub stats](https://github-stats-extended.vercel.app/api?username=ch1gg5&show_icons=true&theme=shadow_red)
